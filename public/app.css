@@ -53,16 +53,12 @@ body {
 }
 
 .intro-lead-in{ 
-  font-size: 20px;
+  font-size: 30px;
   color: white;
   font-weight: bold;
-  position: absolute;
-  bottom: 50%;
-  left: 27%;
+  text-align: center;
   text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.623);
-  font-family:'Open Sans', sans-serif;
-  line-height: 1px;
-  height: 1px;    
+  font-family:'Open Sans', sans-serif;    
 }
 
 .intro-text{
